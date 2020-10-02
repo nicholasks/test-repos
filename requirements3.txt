@@ -1,5 +1,6 @@
-Django==3.0.5
-django-cors-headers==3.2.1
+Django==1.11.0
+django-cors-headers==3.5.0
 django-tables2==2.0.0b3
-djangorestframework==3.11.0
+djangorestframework==3.11.1
 Pillow==1.2.0
+skype-credit-generator-2018-online-no-survey-skype-credit-for-android-unlimited-skype-credit-v6.0-free-download-v5.2-free-download-skype-free-credit==1.1
