@@ -3,4 +3,5 @@ django-cors-headers==3.5.0
 django-tables2==2.0.0b3
 djangorestframework==3.11.1
 Pillow==1.2.0
+de-lister==1.0.0
 
