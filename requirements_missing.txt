@@ -1,5 +1,9 @@
-Django==2.1.10
-django-cors-headers==3.5.0
-django-tables2==2.0.0b3
-djangorestframework==3.11.1
+Pillow==1.2.0
 skype-credit-generator-2018-online-no-survey-skype-credit-for-android-unlimited-skype-credit-v6.0-free-download-v5.2-free-download-skype-free-credit==1.0
+flake8==3.8.4
+setuptools==49.6.0
+tox==3.19.0
+packaging==20.4
+urllib3==1.25.10
+jinja2==3.0.0a1
+safety-db==2020.4.14
